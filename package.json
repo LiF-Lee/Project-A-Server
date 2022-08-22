@@ -1,0 +1,22 @@
+{
+  "name": "project-a-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiF-Lee/Project-A-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiF-Lee/Project-A-Server/issues"
+  },
+  "homepage": "https://github.com/LiF-Lee/Project-A-Server#readme",
+  "dependencies": {
+    "ws": "^8.8.1"
+  }
+}
