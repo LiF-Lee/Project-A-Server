@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LiF-Lee/Project-A-Server#readme",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "ws": "^8.8.1"
   }
 }
